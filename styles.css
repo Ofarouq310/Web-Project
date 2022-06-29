@@ -1,0 +1,19 @@
+#image{
+  max-width:100%;
+  height:auto;
+  display:block;
+}
+
+#main{ text-align:center;
+}
+
+#title{
+  font-size:25px;
+  background-color:lightgrey
+}
+
+#tribute-link{
+ background-color:lightgrey
+}
+
+
